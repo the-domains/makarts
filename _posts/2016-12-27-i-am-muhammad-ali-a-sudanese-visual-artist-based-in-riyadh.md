@@ -1,7 +1,7 @@
 ---
 inFeed: true
 author: []
-dateModified: '2016-12-27T22:51:41.778Z'
+dateModified: '2016-12-27T23:23:57.170Z'
 via: {}
 title: ''
 publisher: {}
@@ -12,7 +12,7 @@ description: >-
   effective and meaningful visual identities.
 sourcePath: >-
   _posts/2016-12-27-i-am-muhammad-ali-a-sudanese-visual-artist-based-in-riyadh.md
-datePublished: '2016-12-27T22:51:43.457Z'
+datePublished: '2016-12-27T23:23:57.928Z'
 starred: false
 datePublishedOriginal: '2016-12-27T22:11:17.647Z'
 _type: Blurb
