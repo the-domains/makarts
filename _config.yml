@@ -14,16 +14,16 @@ collections:
       number: 15
       paginate: true
       navigable: true
-    permalink:
-      path: '/:title/'
     feed:
       path: /rss.xml
       format: rss
       number: 10
+    permalink:
+      path: '/:title/'
 description: ''
 color:
-  saturation: 0.6553192
-  brandStrength: 0.2765957
+  saturation: 1
+  brandStrength: 0.6255319
   lightness: 1
   brandColors:
     - '#FFFFFF'
@@ -31,7 +31,7 @@ color:
     - '#2F2F2F'
     - '#6F6F6F'
     - '#AFAFAF'
-  rhythmicContrast: 1
+  rhythmicContrast: 0
 favicon: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/b6670e87-15d4-471e-a601-d894f6ed5e38.png
 author:
@@ -41,5 +41,5 @@ author:
 name: MAKARTS
 logo: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/712588d3-a00a-48c4-b207-a1383094b124.png
-typography_spectrum: 0.6702127
-layout_spectrum: 0.7170213
+typography_spectrum: 0.6340426
+layout_spectrum: 0
