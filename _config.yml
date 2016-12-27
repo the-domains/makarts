@@ -1,4 +1,3 @@
-layout_spectrum: 0.20687417716230497
 typography_spectrum: 0.17052163248079472
 color:
   saturation: 0.884184631019886
@@ -12,6 +11,7 @@ color:
     - '#333333'
   rhythmicContrast: 0.2759208470087794
 github: true
+layout_spectrum: 0.20687417716230497
 author:
   name: Muhammad Khojali
   email: mak@makarts.io
@@ -19,6 +19,7 @@ author:
 logo: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/712588d3-a00a-48c4-b207-a1383094b124.png
 name: MAKARTS
+url: 'http://makarts.io'
 navigation:
   - name: Facebook
     url: 'https://www.facebook.com/makarts.io/'
