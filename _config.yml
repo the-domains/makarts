@@ -1,4 +1,3 @@
-layout_spectrum: 0.20436412032675183
 typography_spectrum: 0.1761907619537583
 color:
   saturation: 0.8855810653669114
@@ -12,6 +11,7 @@ color:
     - '#333333'
   rhythmicContrast: 0.27402365788808186
 github: true
+layout_spectrum: 0.20436412032675183
 author:
   name: Muhammad Khojali
   email: mak@makarts.io
