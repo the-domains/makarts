@@ -1,16 +1,16 @@
-layout_spectrum: 0.021419956482356728
-typography_spectrum: 0.5626875846157091
+layout_spectrum: 0.4012869737756503
+typography_spectrum: 0.576522819049435
 color:
-  saturation: 0.7315542840073346
-  brandStrength: 0.1943414239840822
-  lightness: 0.7865131364205834
+  saturation: 0.7446666528485568
+  brandStrength: 0.43836826110775073
+  lightness: 0.6481249520201051
   brandColors:
     - '#FFFFFF'
     - '#CCCCCC'
     - '#999999'
     - '#4D4D4D'
     - '#333333'
-  rhythmicContrast: 0.5700326524322649
+  rhythmicContrast: 0.2960527875563037
 title: MAKARTS
 content: []
 github: true
