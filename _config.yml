@@ -1,41 +1,6 @@
-typography_spectrum: 0.493617
-color:
-  saturation: 0.3829787
-  brandStrength: 1
-  lightness: 0.8531915
-  brandColors:
-    - '#FFFFFF'
-    - '#000000'
-    - '#2F2F2F'
-    - '#6F6F6F'
-    - '#AFAFAF'
-  rhythmicContrast: 0.6617022
-github: true
-layout_spectrum: 1
-author:
-  name: Muhammad Khojali
-  email: mak@makarts.io
-  url: makarts.io
-logo: >-
-  https://the-grid-user-content.s3-us-west-2.amazonaws.com/712588d3-a00a-48c4-b207-a1383094b124.png
-name: MAKARTS
-favicon: >-
-  https://the-grid-user-content.s3-us-west-2.amazonaws.com/b6670e87-15d4-471e-a601-d894f6ed5e38.png
-collections:
-  - index:
-      path: /
-      number: 15
-      paginate: true
-      navigable: true
-    feed:
-      path: /rss.xml
-      format: rss
-      number: 10
-    permalink:
-      path: '/:title/'
 title: MAKARTS
 content: []
-description: ''
+github: true
 purpose:
   - type: external
     url: 'https://twitter.com/makhojali'
@@ -43,3 +8,38 @@ purpose:
   - type: contact
     url: 'mailto:business@makarts.io'
     label: Business inquiries
+collections:
+  - index:
+      path: /
+      number: 15
+      paginate: true
+      navigable: true
+    permalink:
+      path: '/:title/'
+    feed:
+      path: /rss.xml
+      format: rss
+      number: 10
+description: ''
+color:
+  saturation: 0.6553192
+  brandStrength: 0.2765957
+  lightness: 1
+  brandColors:
+    - '#FFFFFF'
+    - '#000000'
+    - '#2F2F2F'
+    - '#6F6F6F'
+    - '#AFAFAF'
+  rhythmicContrast: 1
+favicon: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/b6670e87-15d4-471e-a601-d894f6ed5e38.png
+author:
+  name: Muhammad Khojali
+  email: mak@makarts.io
+  url: makarts.io
+name: MAKARTS
+logo: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/712588d3-a00a-48c4-b207-a1383094b124.png
+typography_spectrum: 0.6702127
+layout_spectrum: 0.7170213
