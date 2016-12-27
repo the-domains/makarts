@@ -26,6 +26,9 @@ navigation:
   - name: Behance
     url: 'https://www.behance.net/makhojali'
     type: external
+  - name: Instagram
+    url: 'https://www.instagram.com/makhojali/'
+    type: external
 favicon: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/b6670e87-15d4-471e-a601-d894f6ed5e38.png
 collections:
