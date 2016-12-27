@@ -23,7 +23,7 @@ collections:
 description: ''
 color:
   saturation: 0
-  brandStrength: 0.8595745
+  brandStrength: 0.4404255
   lightness: 0
   brandColors:
     - '#FFFFFF'
