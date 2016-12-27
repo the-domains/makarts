@@ -1,17 +1,17 @@
-typography_spectrum: 0.1761907619537583
+layout_spectrum: 0.20687417716230497
+typography_spectrum: 0.17052163248079472
 color:
-  saturation: 0.8855810653669114
-  brandStrength: 0.39056894657451036
-  lightness: 0.9342249584814885
+  saturation: 0.884184631019886
+  brandStrength: 0.39154428624335935
+  lightness: 0.9374083546388636
   brandColors:
     - '#FFFFFF'
     - '#CCCCCC'
     - '#999999'
     - '#4D4D4D'
     - '#333333'
-  rhythmicContrast: 0.27402365788808186
+  rhythmicContrast: 0.2759208470087794
 github: true
-layout_spectrum: 0.20436412032675183
 author:
   name: Muhammad Khojali
   email: mak@makarts.io
