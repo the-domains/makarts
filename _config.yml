@@ -1,3 +1,16 @@
+layout_spectrum: 0.021419956482356728
+typography_spectrum: 0.5626875846157091
+color:
+  saturation: 0.7315542840073346
+  brandStrength: 0.1943414239840822
+  lightness: 0.7865131364205834
+  brandColors:
+    - '#FFFFFF'
+    - '#CCCCCC'
+    - '#999999'
+    - '#4D4D4D'
+    - '#333333'
+  rhythmicContrast: 0.5700326524322649
 title: MAKARTS
 content: []
 github: true
@@ -21,17 +34,6 @@ collections:
       format: rss
       number: 10
 description: ''
-color:
-  saturation: 0.5340425
-  brandStrength: 0.4404255
-  lightness: 0.5191489
-  brandColors:
-    - '#FFFFFF'
-    - '#000000'
-    - '#2F2F2F'
-    - '#6F6F6F'
-    - '#AFAFAF'
-  rhythmicContrast: 0.5468085
 favicon: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/b6670e87-15d4-471e-a601-d894f6ed5e38.png
 author:
@@ -41,5 +43,3 @@ author:
 name: MAKARTS
 logo: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/712588d3-a00a-48c4-b207-a1383094b124.png
-typography_spectrum: 0.6340426
-layout_spectrum: 0.2808511
