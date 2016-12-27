@@ -1,16 +1,16 @@
-layout_spectrum: 0.20266261257480203
-typography_spectrum: 0.7107847731352074
+layout_spectrum: 0.20436412032675183
+typography_spectrum: 0.1761907619537583
 color:
-  saturation: 0.60271541282009
-  brandStrength: 0.12138341881897263
-  lightness: 0.25095527625347647
+  saturation: 0.8855810653669114
+  brandStrength: 0.39056894657451036
+  lightness: 0.9342249584814885
   brandColors:
     - '#FFFFFF'
     - '#CCCCCC'
     - '#999999'
     - '#4D4D4D'
     - '#333333'
-  rhythmicContrast: 0.8133434578401987
+  rhythmicContrast: 0.27402365788808186
 github: true
 author:
   name: Muhammad Khojali
