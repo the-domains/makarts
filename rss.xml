@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[MAKARTS]]></title>
+        <description><![CDATA[MAKARTS]]></description>
+        <link>https://thegrid.ai/makarts/</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Tue, 27 Dec 2016 21:44:22 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/makarts/rss.xml" rel="self" type="application/rss+xml"/>
+        <pubDate>Tue, 27 Dec 2016 21:44:21 GMT</pubDate>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/02cbd6ed-4b57-47b0-bd3e-766659fa70f1.jpg">]]></description>
+            <link>https://www.behance.net/gallery/46447589/K-TOWN-Branding</link>
+            <guid isPermaLink="false">5fdae189-5a03-4421-927e-0d511bdeef63</guid>
+            <pubDate>Tue, 27 Dec 2016 21:44:21 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/7665f636-15a2-460c-969d-77d18d9c6275.png">]]></description>
+            <link>https://www.behance.net/gallery/46688053/Moves-Branding</link>
+            <guid isPermaLink="false">d228380a-1827-4f45-9d3d-58e5a7e0b27b</guid>
+            <pubDate>Tue, 27 Dec 2016 21:44:20 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
