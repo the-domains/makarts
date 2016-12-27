@@ -4,9 +4,9 @@
         <description><![CDATA[MAKARTS]]></description>
         <link>https://thegrid.ai/makarts/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 27 Dec 2016 21:44:46 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 27 Dec 2016 21:44:54 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/makarts/rss.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Tue, 27 Dec 2016 21:44:23 GMT</pubDate>
+        <pubDate>Tue, 27 Dec 2016 21:44:24 GMT</pubDate>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/efa3c111-d8d8-4405-b6b3-daedd2f804c0.png">]]></description>
@@ -48,6 +48,13 @@
             <link>https://www.behance.net/gallery/46688053/Moves-Branding</link>
             <guid isPermaLink="false">d228380a-1827-4f45-9d3d-58e5a7e0b27b</guid>
             <pubDate>Tue, 27 Dec 2016 21:44:20 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/ece7a95f-0101-43d8-95d6-0a62fb59d373.png">]]></description>
+            <link>https://www.behance.net/gallery/45603731/The-voices-of-the-city</link>
+            <guid isPermaLink="false">9f4625a3-b5ae-4c18-aeb9-b902878872db</guid>
+            <pubDate>Tue, 27 Dec 2016 21:44:21 GMT</pubDate>
         </item>
     </channel>
 </rss>
