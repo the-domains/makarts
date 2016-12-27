@@ -26,11 +26,11 @@ navigation:
   - name: Behance
     url: 'https://www.behance.net/makhojali'
     type: external
-  - name: Instagram
-    url: 'https://www.instagram.com/makhojali/'
-    type: external
   - name: LinkedIn
     url: 'https://linkedin.com/in/makhojail'
+    type: external
+  - name: Instagram
+    url: 'https://www.instagram.com/makhojali/'
     type: external
   - name: SoundCloud
     url: 'https://soundcloud.com/makhojali'
