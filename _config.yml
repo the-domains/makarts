@@ -12,10 +12,12 @@ color:
   rhythmicContrast: 0.2759208470087794
 github: true
 layout_spectrum: 0.20687417716230497
+analytics:
+  google: UA-89544743-1
 author:
   name: Muhammad Khojali
   email: mak@makarts.io
-  url: 'https://twitter.com/makhojali'
+  url: makarts.io
 logo: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/712588d3-a00a-48c4-b207-a1383094b124.png
 name: MAKARTS
