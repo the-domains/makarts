@@ -26,6 +26,9 @@ logo: >-
 name: MAKARTS
 url: 'http://makarts.io'
 navigation:
+  - name: About
+    id: 2f8875a2-b29f-4f6b-923c-6df79bc69f97
+    type: content
   - name: Facebook
     url: 'https://www.facebook.com/makarts.io/'
     type: external
@@ -38,9 +41,6 @@ navigation:
   - name: Instagram
     url: 'https://www.instagram.com/makhojali/'
     type: external
-  - name: About
-    id: 2f8875a2-b29f-4f6b-923c-6df79bc69f97
-    type: content
 favicon: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/b6670e87-15d4-471e-a601-d894f6ed5e38.png
 collections:
