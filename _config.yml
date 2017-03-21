@@ -21,7 +21,8 @@ author:
   name: Muhammad Khojali
   email: mak@makarts.io
   url: 'http://makarts.io/'
-logo: null
+logo: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/9537dca5-310f-474f-bd87-a5bcef1b9d3e.png
 name: MAKARTS
 url: 'http://makarts.io'
 navigation:
@@ -89,7 +90,6 @@ content:
         Music video by MAK performing Time to breathe . (C) 2015 Production
         House : Khalid Awad Studio https://soundcloud.com/makhojali
         https://instagram.com/makkhojali/ https://twitter.com/makhojali
-      inLanguage: !<tag:yaml.org,2002:js/undefined> ''
       '@type': VideoObject
       app_links:
         - url: 'vnd.youtube://www.youtube.com/watch?v=ZhvV261M_Sw&feature=applinks'
