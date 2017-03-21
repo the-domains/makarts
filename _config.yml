@@ -1,19 +1,19 @@
-typography_spectrum: 0.17052163248079472
-content_rating:
-  adult: false
+layout_spectrum: 0.20523222399423693
+typography_spectrum: 0.8622773239715485
 color:
-  saturation: 0.884184631019886
-  brandStrength: 0.39154428624335935
-  lightness: 0.9374083546388636
+  saturation: 0.9200622915588136
+  brandStrength: 0.05717816982501288
+  lightness: 0.6096906274603219
   brandColors:
     - '#FFFFFF'
     - '#CCCCCC'
     - '#999999'
     - '#4D4D4D'
     - '#333333'
-  rhythmicContrast: 0.2759208470087794
+  rhythmicContrast: 0.5973044913000252
+content_rating:
+  adult: false
 github: true
-layout_spectrum: 0.20687417716230497
 analytics:
   google: UA-89544743-1
   facebook: '1702506510062219'
