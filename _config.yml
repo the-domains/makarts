@@ -1,4 +1,6 @@
 typography_spectrum: 0.17052163248079472
+content_rating:
+  adult: false
 color:
   saturation: 0.884184631019886
   brandStrength: 0.39154428624335935
@@ -36,6 +38,9 @@ navigation:
   - name: Instagram
     url: 'https://www.instagram.com/makhojali/'
     type: external
+  - name: ABOUT
+    id: 2f8875a2-b29f-4f6b-923c-6df79bc69f97
+    type: content
 favicon: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/b6670e87-15d4-471e-a601-d894f6ed5e38.png
 collections:
@@ -60,20 +65,19 @@ content:
     src: >-
       https://the-grid-user-content.s3-us-west-2.amazonaws.com/f66b5f51-f27d-4b28-a6a9-0855c653d95e.png
     metadata:
-      author: []
+      datePublished: null
+      keywords: []
       related: []
+      author: []
+      '@context': 'http://schema.org'
+      '@type': MediaObject
+      app_links: []
       publisher:
         url: 'https://the-grid-user-content.s3-us-west-2.amazonaws.com'
         name: The-grid-user-content
         favicon: null
         domain: the-grid-user-content.s3-us-west-2.amazonaws.com
-      keywords: []
       description: ''
-      inLanguage: !<tag:yaml.org,2002:js/undefined> ''
-      app_links: []
-      '@context': 'http://schema.org'
-      '@type': MediaObject
-      datePublished: null
     title: !<tag:yaml.org,2002:js/undefined> ''
     caption: !<tag:yaml.org,2002:js/undefined> ''
     text: !<tag:yaml.org,2002:js/undefined> ''
@@ -85,5 +89,3 @@ purpose:
   - type: contact
     url: 'mailto:business@makarts.io'
     label: Business inquiries
-content_rating:
-  adult: false
