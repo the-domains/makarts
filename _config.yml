@@ -106,4 +106,4 @@ purpose:
     label: Say Hello
   - type: contact
     url: 'mailto:business@makarts.io'
-    label: Contact me
+    label: Contact
