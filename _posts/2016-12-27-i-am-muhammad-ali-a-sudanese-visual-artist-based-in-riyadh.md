@@ -1,10 +1,10 @@
 ---
 publisher: {}
-datePublished: '2017-03-21T08:08:16.117Z'
-dateModified: '2017-03-21T08:08:15.249Z'
+datePublished: '2017-03-21T09:11:35.729Z'
+dateModified: '2017-03-21T09:11:34.845Z'
 via: {}
-description: Creative Director | Musician & Visual artist
-title: 'Hi, ​I''m Muhammad Khojali'
+description: 'Hi, ​I''m Muhammad Khojali'
+title: ''
 sourcePath: >-
   _posts/2016-12-27-i-am-muhammad-ali-a-sudanese-visual-artist-based-in-riyadh.md
 inFeed: false
@@ -16,23 +16,23 @@ url: hi-im-muhammad-khojali/index.html
 _type: Blurb
 
 ---
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/4adedf93-6dee-4661-8f5e-fe27e779b7ae.jpg)
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/9762c992-b850-4f60-9ec4-494ad3e108f2.png)
 
-## **Hi, ​I'm Muhammad Khojali**
+Hi, ​I'm Muhammad Khojali
 
 Creative Director | Musician & Visual artist
 
 Professionally known as Brand Identity Developer.
 
-### ​**WHAT I DO**
+​WHAT I DO
 
 Creative direction, Art direction, Graphic design, Branding, Interior design, Photography, Retouching, Video editing, and Music composing.
 
-### **CLIENTS**​
+CLIENTS​
 
 Highlight, MOVES, K-Town, Diwanj, SeaGeat, ConEms, Peter&Black, BORSAT, Advision, Ahmed Nour, Tri-Axis, ARASCO, Millenium, DAL Group , UNDP
 
-### **Organizations**
+Organizations
 
 The Sudanese Photographers Group | Member, 2013
 
