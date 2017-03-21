@@ -1,16 +1,16 @@
 ---
 description: Creative Director | Musician & Visual artist
 author: []
-datePublished: '2017-03-21T09:20:58.960Z'
-dateModified: '2017-03-21T09:20:58.320Z'
+datePublished: '2017-03-21T09:21:30.696Z'
+dateModified: '2017-03-21T09:21:30.580Z'
 title: 'Hi, ​I''m Muhammad Khojali'
 publisher: {}
 via: {}
 inFeed: true
 isBasedOnUrl: 'https://www.linkedin.com/in/makhojail/'
+sourcePath: _posts/2017-03-21-hi-im-muhammad-khojali.md
 starred: false
 datePublishedOriginal: '2017-03-21T09:20:58.960Z'
-sourcePath: _posts/2017-03-21-hi-im-muhammad-khojali.md
 _context: 'http://schema.org'
 _type: Article
 
