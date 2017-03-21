@@ -1,8 +1,10 @@
 ---
-description: Creative Director | Musician & Visual artist
+description: >-
+  Creative Director | Musician & Visual artist Professionally known as Brand
+  Identity Developer.
 author: []
-datePublished: '2017-03-21T09:23:06.189Z'
-dateModified: '2017-03-21T09:23:02.778Z'
+datePublished: '2017-03-21T09:32:41.535Z'
+dateModified: '2017-03-21T09:32:40.662Z'
 title: 'Hi, ​I''m Muhammad Khojali'
 publisher: {}
 via: {}
@@ -18,11 +20,9 @@ _type: Article
 ---
 ![](https://imgflo.herokuapp.com/graph/2b2431f8e7ba7b0/26d2edc9ea03b57272148631abdc32e5/croprotate.png?cropheight=241&cropwidth=241&degrees=0&input=https%3A%2F%2Fthe-grid-user-content.s3-us-west-2.amazonaws.com%2Fc0056e2b-f4ef-4530-9c2b-d58e2262a2ab.png&x=4&y=4)
 
-# Hi, ​I'm Muhammad Khojali
+## Hi, ​I'm Muhammad Khojali
 
-Creative Director | Musician & Visual artist
-
-Professionally known as Brand Identity Developer.
+Creative Director | Musician & Visual artist Professionally known as Brand Identity Developer.
 
 ## ​WHAT I DO
 
@@ -39,6 +39,7 @@ The Sudanese Photographers Group | Member, 2013
 [SPG][0] | [SPG.SD][1]
 
 ​
+
 
 [0]: https://www.facebook.com/SudanesePhotographers/
 [1]: http://www.SPG.SD/
