@@ -38,6 +38,9 @@ navigation:
   - name: Instagram
     url: 'https://www.instagram.com/makhojali/'
     type: external
+  - name: About
+    id: 16ef6c59-9b0b-45cd-9854-a9b55ff4afe4
+    type: content
 favicon: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/b6670e87-15d4-471e-a601-d894f6ed5e38.png
 collections:
@@ -63,16 +66,8 @@ content:
       allowfullscreen></iframe>
     src: !<tag:yaml.org,2002:js/undefined> ''
     metadata:
-      author:
-        - name: MAK
-          url: 'https://www.youtube.com/user/Makartstudio'
-          avatar: {}
-      related: []
-      publisher:
-        url: 'https://www.youtube.com/'
-        name: YouTube
-        favicon: 'https://s.ytimg.com/yts/img/favicon-vflz7uhzw.ico'
-        domain: www.youtube.com
+      datePublished: null
+      isBasedOnUrl: 'https://www.youtube.com/watch?v=ZhvV261M_Sw'
       keywords:
         - acoustic
         - mak
@@ -83,10 +78,13 @@ content:
         - flute (musical instrument)
         - photography (visual art form)
         - creative director (job ti...
-      description: >-
-        Music video by MAK performing Time to breathe . (C) 2015 Production
-        House : Khalid Awad Studio https://soundcloud.com/makhojali
-        https://instagram.com/makkhojali/ https://twitter.com/makhojali
+      related: []
+      author:
+        - name: MAK
+          url: 'https://www.youtube.com/user/Makartstudio'
+          avatar: {}
+      '@context': 'http://schema.org'
+      title: Time to breathe - MAK feat. SHAF ( Acoustic )
       '@type': VideoObject
       app_links:
         - url: 'vnd.youtube://www.youtube.com/watch?v=ZhvV261M_Sw&feature=applinks'
@@ -125,10 +123,15 @@ content:
           package: '544007664'
           namespace: google
           type: ios
-      '@context': 'http://schema.org'
-      isBasedOnUrl: 'https://www.youtube.com/watch?v=ZhvV261M_Sw'
-      title: Time to breathe - MAK feat. SHAF ( Acoustic )
-      datePublished: null
+      publisher:
+        url: 'https://www.youtube.com/'
+        name: YouTube
+        favicon: 'https://s.ytimg.com/yts/img/favicon-vflz7uhzw.ico'
+        domain: www.youtube.com
+      description: >-
+        Music video by MAK performing Time to breathe . (C) 2015 Production
+        House : Khalid Awad Studio https://soundcloud.com/makhojali
+        https://instagram.com/makkhojali/ https://twitter.com/makhojali
     title: !<tag:yaml.org,2002:js/undefined> ''
     caption: !<tag:yaml.org,2002:js/undefined> ''
     text: !<tag:yaml.org,2002:js/undefined> ''
