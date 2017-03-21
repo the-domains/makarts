@@ -1,16 +1,16 @@
 ---
 inFeed: true
 description: 'Branding, Graphic Design, Calligraphy'
-dateModified: '2017-03-21T12:13:21.154Z'
-datePublished: '2017-03-21T12:13:21.760Z'
+dateModified: '2017-03-21T12:15:19.437Z'
+datePublished: '2017-03-21T12:15:19.567Z'
 title: The voices of the city
 author: []
 publisher: {}
 via: {}
 isBasedOnUrl: 'https://www.behance.net/gallery/45603731/The-voices-of-the-city'
+sourcePath: _posts/2017-03-21-the-voices-of-the-city.md
 starred: false
 datePublishedOriginal: '2017-03-21T12:13:21.760Z'
-sourcePath: _posts/2017-03-21-the-voices-of-the-city.md
 _type: MediaObject
 
 ---
