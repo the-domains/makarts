@@ -1,8 +1,8 @@
 ---
 inFeed: true
 description: 'Photography, Creative Direction, Editing'
-dateModified: '2017-03-21T16:28:54.889Z'
-datePublished: '2017-03-21T16:28:55.096Z'
+dateModified: '2017-03-21T16:29:43.113Z'
+datePublished: '2017-03-21T16:29:43.246Z'
 title: Dj Phisics | Photography
 author: []
 publisher: {}
