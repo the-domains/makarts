@@ -20,9 +20,8 @@ analytics:
 author:
   name: Muhammad Khojali
   email: mak@makarts.io
-  url: makarts.io
-logo: >-
-  https://the-grid-user-content.s3-us-west-2.amazonaws.com/712588d3-a00a-48c4-b207-a1383094b124.png
+  url: 'http://makarts.io/'
+logo: null
 name: MAKARTS
 url: 'http://makarts.io'
 navigation:
