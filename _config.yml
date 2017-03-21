@@ -1,5 +1,6 @@
-layout_spectrum: 0.20523222399423693
 typography_spectrum: 0.8622773239715485
+content_rating:
+  adult: false
 color:
   saturation: 0.9200622915588136
   brandStrength: 0.05717816982501288
@@ -11,9 +12,8 @@ color:
     - '#4D4D4D'
     - '#333333'
   rhythmicContrast: 0.5973044913000252
-content_rating:
-  adult: false
 github: true
+layout_spectrum: 0.20523222399423693
 analytics:
   google: UA-89544743-1
   facebook: '1702506510062219'
@@ -38,6 +38,9 @@ navigation:
   - name: Instagram
     url: 'https://www.instagram.com/makhojali/'
     type: external
+  - name: About
+    id: 2f8875a2-b29f-4f6b-923c-6df79bc69f97
+    type: content
 favicon: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/b6670e87-15d4-471e-a601-d894f6ed5e38.png
 collections:
