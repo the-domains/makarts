@@ -1,8 +1,8 @@
 ---
 inFeed: true
 description: 'Photography, Creative Direction, Editing'
-dateModified: '2017-03-21T16:15:52.636Z'
-datePublished: '2017-03-21T16:15:52.946Z'
+dateModified: '2017-03-21T16:24:23.802Z'
+datePublished: '2017-03-21T16:24:24.619Z'
 title: Dj Phisics | Photography
 author: []
 publisher: {}
@@ -14,4 +14,4 @@ datePublishedOriginal: '2017-03-21T12:14:53.198Z'
 _type: MediaObject
 
 ---
-![Photography, Creative Direction, Editing](https://the-grid-user-content.s3-us-west-2.amazonaws.com/2f06559d-1728-4e02-817f-68608f61d7c2.png)
+![Photography, Creative Direction, Editing](https://the-grid-user-content.s3-us-west-2.amazonaws.com/bfcf10d3-f904-4a8f-9ae1-2fc6291694cb.png)
