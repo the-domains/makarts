@@ -1,8 +1,8 @@
 ---
 description: Creative Director | Musician & Visual artist
 author: []
-datePublished: '2017-03-21T09:22:36.341Z'
-dateModified: '2017-03-21T09:22:32.053Z'
+datePublished: '2017-03-21T09:23:06.189Z'
+dateModified: '2017-03-21T09:23:02.778Z'
 title: 'Hi, ​I''m Muhammad Khojali'
 publisher: {}
 via: {}
@@ -24,15 +24,15 @@ Creative Director | Musician & Visual artist
 
 Professionally known as Brand Identity Developer.
 
-# ​WHAT I DO
+## ​WHAT I DO
 
 Creative direction, Art direction, Graphic design, Branding, Interior design, Photography, Retouching, Video editing, and Music composing.
 
-# CLIENTS​
+## CLIENTS​
 
 Highlight, MOVES, K-Town, Diwanj, SeaGeat, ConEms, Peter&Black, BORSAT, Advision, Ahmed Nour, Tri-Axis, ARASCO, Millenium, DAL Group , UNDP
 
-# Organizations
+## Organizations
 
 The Sudanese Photographers Group | Member, 2013
 
