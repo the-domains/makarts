@@ -1,16 +1,16 @@
 ---
 inFeed: true
 description: 'Photography, Creative Direction, Editing'
-dateModified: '2017-03-21T12:14:52.532Z'
-datePublished: '2017-03-21T12:14:53.198Z'
+dateModified: '2017-03-21T12:15:19.437Z'
+datePublished: '2017-03-21T12:15:19.575Z'
 title: Dj Phisics | Photography
 author: []
 publisher: {}
 via: {}
 isBasedOnUrl: 'https://www.behance.net/gallery/45950803/Dj-Phisics-Photography'
+sourcePath: _posts/2017-03-21-dj-phisics-or-photography.md
 starred: false
 datePublishedOriginal: '2017-03-21T12:14:53.198Z'
-sourcePath: _posts/2017-03-21-dj-phisics-or-photography.md
 _type: MediaObject
 
 ---
