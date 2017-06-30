@@ -1,8 +1,8 @@
 ---
 inFeed: true
 description: 'Branding, Graphic Design, Calligraphy'
-dateModified: '2017-06-30T10:29:19.705Z'
-datePublished: '2017-06-30T10:29:20.207Z'
+dateModified: '2017-06-30T10:38:45.864Z'
+datePublished: '2017-06-30T10:38:46.024Z'
 title: The voices of the city
 author: []
 publisher: {}
