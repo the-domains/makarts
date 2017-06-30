@@ -49,7 +49,7 @@ collections:
       path: /rss.xml
       format: rss
       number: 10
-title: ''
+title: MAKARTS
 content:
   - id: !<tag:yaml.org,2002:js/undefined> ''
     type: video
