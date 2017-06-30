@@ -84,7 +84,6 @@ content:
         Music video by MAK performing Time to breathe . (C) 2015 Production
         House : Khalid Awad Studio https://soundcloud.com/makhojali
         https://instagram.com/makkhojali/ https://twitter.com/makhojali
-      inLanguage: !<tag:yaml.org,2002:js/undefined> ''
       '@type': VideoObject
       app_links:
         - url: 'vnd.youtube://www.youtube.com/watch?v=ZhvV261M_Sw&feature=applinks'
@@ -130,7 +129,7 @@ content:
     title: !<tag:yaml.org,2002:js/undefined> ''
     caption: !<tag:yaml.org,2002:js/undefined> ''
     text: !<tag:yaml.org,2002:js/undefined> ''
-description: Creative Director
+description: ''
 purpose:
   - type: external
     url: 'https://twitter.com/makhojali'
