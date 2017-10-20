@@ -12,8 +12,8 @@ content_rating:
   adult: false
 github: true
 analytics:
-  google: UA-89544743-1
-  facebook: '1702506510062219'
+  google: ''
+  facebook: ''
 author:
   name: Muhammad Khojali
   email: mak@makarts.io
